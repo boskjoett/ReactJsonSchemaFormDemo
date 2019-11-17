@@ -5,7 +5,7 @@ This project was made from the Visual Studio template "ASP.NET Web Application w
 
 This project requires [Node.js](https://nodejs.org/en/) to be installed on the PC.
 
-To install the **react-jsonschema-form** React component issue this command in the ClientApp folder:
+To install the [react-jsonschema-form](https://www.npmjs.com/package/react-jsonschema-form) NPM package issue this command in the ClientApp folder:
 
     npm install react-jsonschema-form
     
